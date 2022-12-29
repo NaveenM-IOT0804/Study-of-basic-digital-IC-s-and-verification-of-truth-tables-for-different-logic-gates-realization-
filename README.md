@@ -65,6 +65,8 @@ RegisterNumber: 22000748
 */
 
 Logic symbol & Truthtable
+![de](https://user-images.githubusercontent.com/117974950/209951354-6fea9f9f-fef8-42fa-88aa-5878e0911a5e.png)
+
 RTL realization
 Output:
 RTL
